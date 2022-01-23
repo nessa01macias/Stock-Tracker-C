@@ -1,0 +1,27 @@
+Hello! Welcome to "Stock tracker".
+
+Please read the instructions below to know how to use and understand the program.
+
+1) If user will read a database from a file, option [3] has to be chosen after starting the program.
+If option [3] data to a file is chosen after option [4] buy a share, then the share[s] that
+was/were just bought will be overwritten by the database and the information will be lost.
+
+2) When the information is saved with option [2], two files.txt will be created. "Database.txt" which 
+is made for the user view, and "filetoread.txt" which is used by C to be able to read the information 
+with option [3]. 
+
+3) Even though it is not possible to sell an determinate amount of shares in a stock due to lack of time,
+user can modify the share with option [6], edit how many are remaining, and add a new share which can be 
+set to sold later on.
+
+4) Option [8] is designed thinking about a large amount of stocks that need to be filtered somehow to 
+benefit the user. The general size of the stock tracker is 200 stocks, but that can be edited at the 
+beginning of the file.
+
+5) To save time during testing, "Database.txt" & "Toread.txt" have some stocks are inside them. They 
+can be overwritten just by initializing the database with option [1] and then saving the database with
+option [2].
+
+6) That's everything, thank you for using it!
+
+- Melany Macias.
