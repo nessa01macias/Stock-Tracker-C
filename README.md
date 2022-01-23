@@ -3,10 +3,10 @@ Project made in C programming language.
 
 Stock tracker is my first C programming project, and it is a console-based application used to manage your stocks. The functionalities include:
 
-Save data to a text file.
-Reading data from a text file.
-Print reports about the situation of the stocks.
-Add new stocks, delete them, modify them...
+Save data to a text file.<br />
+Reading data from a text file.<br />
+Print reports about the situation of the stocks.<br />
+Add new stocks, delete them, modify them...<br />
 
 ![c++](https://user-images.githubusercontent.com/92785400/150660066-86c6eacb-02b2-439a-be37-4f5b35b9fc81.png)
 
