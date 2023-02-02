@@ -1,7 +1,5 @@
 # Stock-Tracker-C
-Project made in C programming language.
-
-Stock tracker is my first C programming project, and it is a console-based application used to manage your stocks. The functionalities include:
+Stock tracker made in C programming language, it is a console-based application used to manage your stocks. The functionalities include:
 
 Save data to a text file.<br />
 Reading data from a text file.<br />
